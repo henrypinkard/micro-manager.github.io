@@ -90,7 +90,7 @@ With the help of users world-wide μManager has been developed into a profession
 Whether you can use μManager right away or not depends on whether your particular hardware is supported. If not, contact us and express your desire. Check the current hardware list.
 
 <h3><a href="/Micro-Manager_Programming_Guide">EXTENDING μMANAGER</a></h3>
-Even if you are not interested in writing software code for your microscope, the open software architecture of μManager will benefit you. For instance, μManager's open device interface lets anyone write code to control microscope-related equipment, resulting a large and growing list of supported equipment. A scripting interface makes it possible to accomplish tasks that can not be executed within the GUI. Lastly, the μManager programming interface can be used from many different environments (including Matlab) to develop new applications, all using the same μManager microscope device control.
+Even if you are not interested in writing software code for your microscope, the open software architecture of μManager will benefit you. For instance, μManager's open device interface lets anyone write code to control microscope-related equipment, resulting a large and growing list of supported equipment. A scripting interface makes it possible to accomplish tasks that can not be executed within the GUI. Lastly, the μManager programming interface can be used from many different environments (including Python, Java, and Matlab) to develop new applications, all using the same μManager microscope device control.
 </div>
 
 <!--Twitter Feed -->
